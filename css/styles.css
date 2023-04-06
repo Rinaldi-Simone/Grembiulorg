@@ -176,16 +176,13 @@ p {
 
 @media (max-width: 1035px) {
 
-    #title {
-        text-align: center;
-    }
-
     .iphone-position {
         position: static;
         transform: rotate(0);
-        width: 90%;
         margin: auto;
+        width: 90%;
         padding: 10%;
+        text-align: center;
 
     }
 
@@ -193,9 +190,12 @@ p {
         width: 80%;
         margin: auto;
         padding: 0;
+        text-align: center;
     }
 
 }
+
+
 
 @media (max-width: 1639.5px) {
 
